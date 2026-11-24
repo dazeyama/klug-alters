@@ -71,3 +71,13 @@
 | Viscera Seer | 🖤 |
 | Vizier of Tumbling Sands | 💚❤️ |
 | Voyaging Satyr | 💚❤️ |
+
+## Voucher cards
+
+Marked with the fanned-cards **VOUCHER** badge: take this card and receive 2 more copies at the end of the draft.
+
+- Squadron Hawk
+- Accumulated Knowledge
+- Rite of Flame
+- Cloudpost
+- Glimmerpost
